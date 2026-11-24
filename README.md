@@ -1,3 +1,3 @@
 # Protein-Fold
 
-Building A Deep Learning Model To Predict Protein Folding
+Building A RL Model To Predict Protein Folding
